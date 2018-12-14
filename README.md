@@ -6,7 +6,7 @@ pint font name
 
 •添加.ttf或.otf后，获取字体的时候需要字体的名字
 
-UIFont(name: "FZHCJW--GB1-0", size: 42)
+let fontName = UIFont(name: "FZHCJW--GB1-0", size: 42)
 
 但是自定义字体文件的名字"方正黄草字体3.0版"并不一定就是字体的名字"FZHCJW--GB1-0"。
 
