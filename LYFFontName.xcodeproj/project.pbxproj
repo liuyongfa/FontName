@@ -14,7 +14,7 @@
 		2877E02621C37F3600D84999 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2877E02421C37F3600D84999 /* LaunchScreen.storyboard */; };
 		2877E03121C37F3600D84999 /* LYFFontNameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2877E03021C37F3600D84999 /* LYFFontNameTests.swift */; };
 		2877E03C21C37F3600D84999 /* LYFFontNameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2877E03B21C37F3600D84999 /* LYFFontNameUITests.swift */; };
-		2877E05021C3928C00D84999 /* 方正黄草字体3.0版.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2877E04E21C390E500D84999 /* 方正黄草字体3.0版.ttf */; };
+		2877E05221C3B3FB00D84999 /* 方正黄草字体3.0版.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2877E04E21C390E500D84999 /* 方正黄草字体3.0版.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -234,7 +234,7 @@
 			files = (
 				2877E02621C37F3600D84999 /* LaunchScreen.storyboard in Resources */,
 				2877E02321C37F3600D84999 /* Assets.xcassets in Resources */,
-				2877E05021C3928C00D84999 /* 方正黄草字体3.0版.ttf in Resources */,
+				2877E05221C3B3FB00D84999 /* 方正黄草字体3.0版.ttf in Resources */,
 				2877E02121C37F3500D84999 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
