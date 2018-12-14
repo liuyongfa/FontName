@@ -18,6 +18,6 @@ let fontName = UIFont(name: "FZHCJW--GB1-0", size: 42)
 
 2.选中字体文件，Target Membership里不勾选它，(command+R)运行一次，再勾选它，再运行一次。控制台就会打印出字体的名字。
 
-![image](https://github.com/liuyongfa/FontName/blob/master/image_0.png)
+![image](https://github.com/liuyongfa/FontName/blob/master/image_1.png)
 
 •知道了字体的名字后，最好把字体文件的名字"方正黄草字体3.0版.ttf"改为字体的名字"FZHCJW--GB1-0.ttf"，再添加到项目里。
